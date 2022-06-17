@@ -105,3 +105,11 @@ deploy:
   type: git
   repo: git@github.com:chieh-ma/chieh-ma.github.io.git
   branch: main
+
+# Plugins
+# https://theme-next.js.org/docs/third-party-services/search-services.html
+search:
+  path: search.xml
+  field: post
+  content: true
+  format: html
