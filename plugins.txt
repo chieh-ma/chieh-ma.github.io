@@ -1,1 +1,1 @@
-hexo-generator-searchdb
+【hexo-generator-searchdb】https://theme-next.js.org/docs/third-party-services/search-services.html
